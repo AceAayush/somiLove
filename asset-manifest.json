@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/somiLove/static/css/main.e6c13ad2.css",
-    "main.js": "/somiLove/static/js/main.feb6dbb0.js",
+    "main.js": "/somiLove/static/js/main.0630feb4.js",
     "static/js/453.82211c1f.chunk.js": "/somiLove/static/js/453.82211c1f.chunk.js",
     "index.html": "/somiLove/index.html",
     "main.e6c13ad2.css.map": "/somiLove/static/css/main.e6c13ad2.css.map",
-    "main.feb6dbb0.js.map": "/somiLove/static/js/main.feb6dbb0.js.map",
+    "main.0630feb4.js.map": "/somiLove/static/js/main.0630feb4.js.map",
     "453.82211c1f.chunk.js.map": "/somiLove/static/js/453.82211c1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.feb6dbb0.js"
+    "static/js/main.0630feb4.js"
   ]
 }
