@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/somiLove/static/css/main.e6c13ad2.css",
-    "main.js": "/somiLove/static/js/main.0630feb4.js",
+    "main.js": "/somiLove/static/js/main.da866e0c.js",
     "static/js/453.82211c1f.chunk.js": "/somiLove/static/js/453.82211c1f.chunk.js",
+    "static/media/indian.png": "/somiLove/static/media/indian.425cb33b87f479537434.png",
+    "static/media/nigga.png": "/somiLove/static/media/nigga.a0c9b8f520d30803b902.png",
+    "static/media/sad.png": "/somiLove/static/media/sad.3d00b4523546b908120a.png",
+    "static/media/angela.png": "/somiLove/static/media/angela.64e58da1ff21926f1ed4.png",
     "index.html": "/somiLove/index.html",
     "main.e6c13ad2.css.map": "/somiLove/static/css/main.e6c13ad2.css.map",
-    "main.0630feb4.js.map": "/somiLove/static/js/main.0630feb4.js.map",
+    "main.da866e0c.js.map": "/somiLove/static/js/main.da866e0c.js.map",
     "453.82211c1f.chunk.js.map": "/somiLove/static/js/453.82211c1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0630feb4.js"
+    "static/js/main.da866e0c.js"
   ]
 }
